@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo multiplicacion
 	definir numero1 Como Entero 
 	definir numero2 Como Entero 	
 	definir numero3 Como Entero
